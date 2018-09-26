@@ -1,0 +1,14 @@
+/Users/tonyguo/otherprojects/critical-core/critical-core/bin/Debug/netcoreapp2.1/critical-core.deps.json
+/Users/tonyguo/otherprojects/critical-core/critical-core/bin/Debug/netcoreapp2.1/critical-core.runtimeconfig.json
+/Users/tonyguo/otherprojects/critical-core/critical-core/bin/Debug/netcoreapp2.1/critical-core.runtimeconfig.dev.json
+/Users/tonyguo/otherprojects/critical-core/critical-core/bin/Debug/netcoreapp2.1/critical-core.dll
+/Users/tonyguo/otherprojects/critical-core/critical-core/bin/Debug/netcoreapp2.1/critical-core.pdb
+/Users/tonyguo/otherprojects/critical-core/critical-core/obj/Debug/netcoreapp2.1/critical-core.csprojAssemblyReference.cache
+/Users/tonyguo/otherprojects/critical-core/critical-core/obj/Debug/netcoreapp2.1/critical-core.csproj.CoreCompileInputs.cache
+/Users/tonyguo/otherprojects/critical-core/critical-core/obj/Debug/netcoreapp2.1/critical-core.RazorAssemblyInfo.cache
+/Users/tonyguo/otherprojects/critical-core/critical-core/obj/Debug/netcoreapp2.1/critical-core.RazorAssemblyInfo.cs
+/Users/tonyguo/otherprojects/critical-core/critical-core/obj/Debug/netcoreapp2.1/critical-core.AssemblyInfoInputs.cache
+/Users/tonyguo/otherprojects/critical-core/critical-core/obj/Debug/netcoreapp2.1/critical-core.AssemblyInfo.cs
+/Users/tonyguo/otherprojects/critical-core/critical-core/obj/Debug/netcoreapp2.1/critical-core.RazorTargetAssemblyInfo.cache
+/Users/tonyguo/otherprojects/critical-core/critical-core/obj/Debug/netcoreapp2.1/critical-core.dll
+/Users/tonyguo/otherprojects/critical-core/critical-core/obj/Debug/netcoreapp2.1/critical-core.pdb
